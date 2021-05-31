@@ -1,0 +1,2 @@
+D:\BaconLukaStudio\SVNBrunch\branches\MainBrunch\Ni\obj\Debug\Assembly-CSharp.csprojAssemblyReference.cache
+D:\BaconLukaStudio\SVNBrunch\branches\MainBrunch\Ni\obj\Debug\Assembly-CSharp.csproj.CoreCompileInputs.cache

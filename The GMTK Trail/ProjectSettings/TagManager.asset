@@ -1,0 +1,72 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Border
+  - mouseHelperBegin
+  - ball
+  - PlayerBasketCenter
+  - Enemy
+  - mouseHelperEnd
+  - playerAI
+  - gatePost
+  - shootCircle
+  - CGM
+  - PullKnot
+  - GPM
+  - Ally
+  - UICanvas
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - IgnoreCollide
+  - Player
+  - Enemy
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: BGDown
+    uniqueID: 3306005017
+    locked: 0
+  - name: BGUp
+    uniqueID: 2969607977
+    locked: 0
+  - name: Player
+    uniqueID: 4127919953
+    locked: 0
+  - name: FX
+    uniqueID: 1083021767
+    locked: 0
+  - name: OAA
+    uniqueID: 1139261729
+    locked: 0

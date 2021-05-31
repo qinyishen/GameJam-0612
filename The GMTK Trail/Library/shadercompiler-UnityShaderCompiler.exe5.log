@@ -1,0 +1,6 @@
+Base path: 'D:/BCLKStudio/Unity2019.2.9/Editor/Data', plugins path 'D:/BCLKStudio/Unity2019.2.9/Editor/Data/PlaybackEngines'
+Cmd: initializeCompiler
+Cmd: compileComputeKernel
+  api=4 insize=18299 outsize=8653 ok=1
+Cmd: compileComputeKernel
+  api=4 insize=2044 outsize=1005 ok=1
